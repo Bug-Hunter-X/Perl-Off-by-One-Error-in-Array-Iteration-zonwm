@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Perl when iterating over an array using a foreach loop and the $#array construct.  The provided solution demonstrates a safer and more idiomatic approach to iterating through arrays in Perl.
